@@ -23,3 +23,8 @@ derby.log
 Thumbs.db
 Desktop.ini
 .DS_Store
+
+# Runtime work dirs
+tomcat.8080/
+bin/
+export-static.ps1
